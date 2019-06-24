@@ -1,3 +1,5 @@
 # training_js
 
-3.Scope
+1. Variables
+2. Datatype
+3. Scope
