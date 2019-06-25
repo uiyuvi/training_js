@@ -1,8 +1,14 @@
 # training_js
 
-1. Variables and Datatype(scope)
-    - Variables
-        - Variables definition and declaration
-        - Passing Values By Reference
-        - variable scope
+1. Variables
+    - Variables definition and declaration
+    - Passing Values By Reference
+    - variable scope
+2. Primitives
+    - boolean
+    - null
+    - undefined
+    - number
+    - typeof
+    - string
 
