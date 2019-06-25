@@ -69,4 +69,5 @@
     - onmouseout
     - addEventListener()
     - removeEventListener()
-
+10. Ajax in js
+11. Utility methods on Date, Math, location
