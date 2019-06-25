@@ -13,6 +13,8 @@
     - string
     - object
 3. Functions
+    - anonymous function
+    - assign function to variable
     - closure
     - currying function
 
