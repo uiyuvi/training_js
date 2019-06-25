@@ -18,4 +18,19 @@
     - assign function to variable
     - closure
     - currying function
+4. String and its methods
+    - length
+    - indexOf()
+    - lastIndexOf()
+    - search()
+    - slice(start, end)
+    - substring(start, end)
+    - substr(start, length)
+    - replace()
+    - toUpperCase()
+    - toLowerCase()
+    - concat()
+    - trim()
+    - charAt(position)
+    - split()
 
