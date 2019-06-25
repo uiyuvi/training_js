@@ -47,6 +47,20 @@
 7. JSON
     - JSON.parse()
     - JSON.stringify()
+8. parse DOM
+    - innerHTML
+    - attribute
+        - setAttribute
+    - cookie
+    - readyState    
+    - getElementById()
+    - getElementsByTagName()
+    - getElementsByClassName()
+    - createElement()
+    - removeChild()
+    - appendChild()
+    - replaceChild()
+    - write()
     
 
 
