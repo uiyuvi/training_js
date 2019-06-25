@@ -4,11 +4,12 @@
     - Variables definition and declaration
     - Passing Values By Reference
     - variable scope
-2. Primitives
+2. Primitives or Datatypes
     - boolean
     - null
     - undefined
     - number
     - typeof
     - string
+    - object
 
