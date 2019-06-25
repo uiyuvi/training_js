@@ -44,5 +44,9 @@
     - else
     - else if
     - switch
+7. JSON
+    - JSON.parse()
+    - JSON.stringify()
+    
 
 
