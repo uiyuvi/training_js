@@ -1,8 +1,8 @@
 # training_js
 
 1. Variables
-    - Variables definition and declaration
-    - Passing Values By Reference
+    - variables definition and declaration
+    - passing Values By Reference
     - variable scope
 2. Primitives or Datatypes
     - boolean
@@ -12,4 +12,7 @@
     - typeof
     - string
     - object
+3. Functions
+    - closure
+    - currying function
 
