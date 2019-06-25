@@ -11,7 +11,8 @@
     - number
     - typeof
     - string
-    - object
+    - [object](https://sdras.github.io/object-explorer/)
+        - [Array](https://sdras.github.io/array-explorer/)
 3. Functions
     - anonymous function
     - assign function to variable
