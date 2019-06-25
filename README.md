@@ -69,5 +69,8 @@
     - onmouseout
     - addEventListener()
     - removeEventListener()
-10. Ajax in js
+10. Asynchronous 
+    - setTimeout()
+    - setInterval()
+    - Ajax
 11. Utility methods on Date, Math, location
