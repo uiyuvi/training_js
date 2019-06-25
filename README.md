@@ -39,5 +39,10 @@
     - for/of
     - while
     - do/while
+6. Conditions
+    - if
+    - else
+    - else if
+    - switch
 
 
