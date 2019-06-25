@@ -61,6 +61,12 @@
     - appendChild()
     - replaceChild()
     - write()
-    
-
+9. DOM Events
+    - onclick
+    - onload
+    - onunload
+    - onmouseover
+    - onmouseout
+    - addEventListener()
+    - removeEventListener()
 
