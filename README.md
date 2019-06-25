@@ -33,4 +33,11 @@
     - trim()
     - charAt(position)
     - split()
+5. Loop
+    - for 
+    - for/in
+    - for/of
+    - while
+    - do/while
+
 
