@@ -1,4 +1,4 @@
-# training_js
+# Topics for basics of javascript training
 
 1. Variables
     - variables definition and declaration
